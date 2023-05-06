@@ -1,6 +1,6 @@
 {
     "name": "sandbox-dev/laravel-agent",
-    "description": "Laravel user agent library",
+    "description": "Laravel user agent detection package",
     "license" : "MIT",
     "authors": [
         {
